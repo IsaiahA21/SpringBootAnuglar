@@ -25,3 +25,15 @@ The application will run on port 8080
 2. Run the following command to start the Angular application:
 ```ng serve```\
 The application will run on port 4200
+
+## Youtube demo
+[youtube demo](https://youtu.be/OcTEFVhLh1U)
+
+## Screenshots
+![zero Image](screenshots/zeroImage.png)
+![zeroOne Image](screenshots/zeroOne.png)
+![first Image](screenshots/firstImage.png)
+![second Image](screenshots/secondImage.png)
+![edit Employee](screenshots/editEmployee.png)
+![delete Employee](screenshots/deleteEmployee.png)
+![search Employee](screenshots/searchEmployee.png)
