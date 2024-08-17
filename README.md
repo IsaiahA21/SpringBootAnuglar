@@ -29,7 +29,9 @@ The application will run on port 4200
 ## Youtube demo
 [youtube demo](https://youtu.be/OcTEFVhLh1U)
 
-## Screenshots
+<details>
+<summary>Screenshots</summary>
+
 ![zero Image](screenshots/zeroImage.png)
 ![zeroOne Image](screenshots/zeroOne.png)
 ![first Image](screenshots/firstImage.png)
@@ -37,3 +39,4 @@ The application will run on port 4200
 ![edit Employee](screenshots/editEmployee.png)
 ![delete Employee](screenshots/deleteEmployee.png)
 ![search Employee](screenshots/searchEmployee.png)
+</details>
