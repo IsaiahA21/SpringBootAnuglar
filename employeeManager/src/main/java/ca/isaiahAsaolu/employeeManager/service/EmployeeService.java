@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.UUID;
 
 
-@Service // A service is a class that contains business logic and acts as an intermediary between a controller and a repository and database.
+@Service // A service is a class that contains business logic and acts as an intermediary between a controller, a repository and database.
 public class EmployeeService {
     @Autowired // This annotation is used to automatically inject the EmployeeRepo bean into the EmployeeService class.
     // Field Injection

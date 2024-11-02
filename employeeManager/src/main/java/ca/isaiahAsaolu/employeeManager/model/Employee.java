@@ -4,8 +4,9 @@ import jakarta.persistence.*;
 
 import java.io.Serializable;
 
-/* Employee is in the Model. It is a class that represents the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class. It is used to store the data of an employee. It is a simple class with no methods. It is used to store the data of an employee. It is a POJO (Plain Old Java Object) class.
-* It is used to store the data of an employee. It is a simple class with no methods.
+/* Employee is in the Model. It is a class that represents the data of an employee.
+It is a simple class with no methods. It is used to store the data of an employee.
+It is a POJO (Plain Old Java Object) class.
 * */
 
 @Entity // This annotation is used to specify that the class is an entity and is mapped to a database table.

@@ -9,12 +9,20 @@ requires the following environment variables to be set:
 ```DB_USERNAME```
 ```DB_PASSWORD```
 
+To do so create a .env file
+
+Then navigate to `Run/Debug configuration` \ 
+Create a new application and set "Environment variables" to the .env you created
+![Run_Debug_Configurations.png](screenshots/Run_Debug_Configurations.png)
+
 ## Running the application
 ### Backend (Spring Boot)
 1. Navigate to the backend directory (cd EmployeeManager)
-2. Mkake sure you have the following environment variables set:
+2. Make sure you have the following environment variables set:
 ```DB_USERNAME```
-```DB_PASSWORD```
+```DB_PASSWORD```\
+The application.properties file can be found at `employeeManager/src/main/resources/application.properties`
+
 3. Run the following command to start the Spring Boot application:
 ``` ./mvnw spring-boot:run```
 4. Or you can run the application using your IDE (IntelliJ, Eclipse, etc)\
